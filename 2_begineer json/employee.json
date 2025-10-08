@@ -1,0 +1,9 @@
+{
+    "employee": {
+        "name": "Ravi",
+        "details": {
+            "department": "IT",
+            "salary": 55000
+        }
+    }
+}

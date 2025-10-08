@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "Name": "loha",
+            "Marks": 99.0
+        },
+        {
+            "Name": "hathoda",
+            "Marks": 95.0
+        },
+        {
+            "Name": "laptop kumar",
+            "Marks": 99.99
+        }
+    ]
+}
