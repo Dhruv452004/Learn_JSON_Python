@@ -1,0 +1,59 @@
+{
+    "orders": [
+        {
+            "order_id": 101,
+            "customer": {
+                "name": "Amit",
+                "city": "Delhi"
+            },
+            "items": [
+                {
+                    "product": "Laptop",
+                    "qty": 1,
+                    "price": 50000
+                },
+                {
+                    "product": "Mouse",
+                    "qty": 2,
+                    "price": 500
+                }
+            ],
+            "status": "delivered"
+        },
+        {
+            "order_id": 102,
+            "customer": {
+                "name": "Riya",
+                "city": "Mumbai"
+            },
+            "items": [
+                {
+                    "product": "Keyboard",
+                    "qty": 1,
+                    "price": 1200
+                },
+                {
+                    "product": "Mouse",
+                    "qty": 1,
+                    "price": 500
+                }
+            ],
+            "status": "processing"
+        },
+        {
+            "order_id": 103,
+            "customer": {
+                "name": "Ravi",
+                "city": "Kolkata"
+            },
+            "items": [
+                {
+                    "product": "Laptop",
+                    "qty": 1,
+                    "price": 50000
+                }
+            ],
+            "status": "delivered"
+        }
+    ]
+}
