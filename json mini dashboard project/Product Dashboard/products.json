@@ -1,0 +1,7 @@
+{
+    "products": [
+        {"id": 1, "name": "Laptop", "price": 50000, "stock": {"warehouse": 10, "store": 5}},
+        {"id": 2, "name": "Mouse", "price": 500, "stock": {"warehouse": 50, "store": 20}},
+        {"id": 3, "name": "Keyboard", "price": 1200, "stock": {"warehouse": 0, "store": 15}}
+    ]
+}

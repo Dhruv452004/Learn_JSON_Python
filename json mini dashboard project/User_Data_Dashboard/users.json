@@ -1,0 +1,7 @@
+{
+    "users": [
+        {"id": 1, "name": "Amit", "city": "Delhi", "active": true},
+        {"id": 2, "name": "Riya", "city": "Mumbai", "active": false},
+        {"id": 3, "name": "Ravi", "city": "Kolkata", "active": true}
+    ]
+}
